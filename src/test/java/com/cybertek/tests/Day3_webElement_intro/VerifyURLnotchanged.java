@@ -42,7 +42,7 @@ public class VerifyURLnotchanged {
         }
 
 
-        Thread.sleep(3000);
+        Thread.sleep(3005);
         driver.quit();
 
     }
