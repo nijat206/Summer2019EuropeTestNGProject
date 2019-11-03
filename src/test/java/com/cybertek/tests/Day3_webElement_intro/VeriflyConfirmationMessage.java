@@ -60,7 +60,7 @@ public class VeriflyConfirmationMessage {
                            System.out.println("expectedMessage = " + expectedMessage);
                            System.out.println("actualMessage = " + actualMessage);
                        }
-                       Thread.sleep(3000);
+                       Thread.sleep(3005);
                        //close the browser
                        driver.quit();
                    }
